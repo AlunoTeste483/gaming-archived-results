@@ -1,2 +1,1 @@
-# gaming-archived-results
-A repository with some archived files of gaming challenges.
+I created this repository to store spreadsheets, pdfs, etc. that contains the results of some challenges created by streamers/youtubers. All files are game related. I'll be saving this github on the WayBack Machine (mainly the zip of the repository) to record these results made by different gamers in the world.
